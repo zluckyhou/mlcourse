@@ -5,7 +5,6 @@
 ### Information Gain
 
 
-$S = -\sum_{i=1}^{N}p_i*log_2{p_i}$
 
 
 -  <a href="https://www.codecogs.com/eqnedit.php?latex=S&space;=&space;-\sum_{i=1}^{N}p_i*log_2{p_i}" target="_blank">Shannon's entropy<img src="https://latex.codecogs.com/gif.latex?S&space;=&space;-\sum_{i=1}^{N}p_i*log_2{p_i}" title="S = -\sum_{i=1}^{N}p_i*log_2{p_i}" /></a>
